@@ -1,4 +1,5 @@
 Hi, I'm BADMUS-IRETOMIWA-ABDULSALAM
+
 Abdulsalam is a young Software Full-Stack developer with the use of sophisticated programming languages. I'm prolific and always willing to learn, have really worked on some projects that has been of great advantage to my skills and improved my knowledge, Not only my improvements to the computer programming languages ⚡.
 
 🔭 A Student of GigsTech Solutions & Consults
