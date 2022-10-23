@@ -1,16 +1,11 @@
-### Hi there 👋
+Hi, I'm BADMUS-IRETOMIWA-ABDULSALAM
+Abdulsalam is a young Software Full-Stack developer with the use of sophisticated programming languages. I'm prolific and always willing to learn, have really worked on some projects that has been of great advantage to my skills and improved my knowledge, Not only my improvements to the computer programming languages ⚡.
 
-<!--
-**Programmer-Salam/Programmer-salam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 A Student of GigsTech Solutions & Consults
+🔭 I’m currently working on Laravel
+🌱 I’m currently learning Laravel 9
+👯 I’m looking to collaborate on Blog
+💬 Ask me about Laravel or any tech related stuff.
+📫 How to reach me: Linkedin - http://www.linkedin.com/in/badmus-iretomiwa-11228b230
+😄 Pronouns: He/His
+⚡ Fun fact: I spend 12 hours developing a 6 Days of Project.
