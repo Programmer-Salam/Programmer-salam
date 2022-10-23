@@ -1,10 +1,10 @@
-Hi, I'm BADMUS-IRETOMIWA-ABDULSALAM
+Hi, I'm https://github.com/Programmer-Salam/Programmer-salam/blob/main/
 
 Abdulsalam is a young Software Full-Stack developer with the use of sophisticated programming languages. I'm prolific and always willing to learn, have really worked on some projects that has been of great advantage to my skills and improved my knowledge, Not only my improvements to the computer programming languages ⚡.
 
 🔭 A Student of GigsTech Solutions & Consults
 
-🔭 I’m currently working on Laravel
+🔭 I’m currently working on Laravel.com
 
 🌱 I’m currently learning Laravel 9
 
@@ -16,11 +16,31 @@ Abdulsalam is a young Software Full-Stack developer with the use of sophisticate
 
 Sport: :basketball: Basketball :tennis: Tennis
 
-📫 How to reach me: Linkedin - http://www.linkedin.com/in/badmus-iretomiwa-11228b230
+📫 How to reach me:   Linkedin - http://www.linkedin.com/in/badmus-iretomiwa-11228b230
 
 😄 Pronouns: He/His
 
 ⚡:blush: Fun fact: I spend 12 hours developing a 6 Days of Project.
 
+<details>
+<summary>My top languages</summary>
+  
+| Rank |   Languages   |
+|-----:|---------------|
+|     1| Laravel       |
+|     2| Php/Oop       |
+|     3| MySqli        |
+|     4| Ajax          |
+|     5| Html          |
+|     6| Typescript    |
+|     7| Sass          |
+|     8| css           |
+  
+</details>
+
+---
+>  “If debugging is the process of removing software bugs, then programming must be the process of putting them in”
+
+-- Programmer-Salam
 
 
