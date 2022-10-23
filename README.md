@@ -8,4 +8,4 @@ Abdulsalam is a young Software Full-Stack developer with the use of sophisticate
 💬 Ask me about Laravel or any tech related stuff.
 📫 How to reach me: Linkedin - http://www.linkedin.com/in/badmus-iretomiwa-11228b230
 😄 Pronouns: He/His
-⚡ Fun fact: I spend 12 hours developing a 6 Days of Project.
+⚡:blush: Fun fact: I spend 12 hours developing a 6 Days of Project.
