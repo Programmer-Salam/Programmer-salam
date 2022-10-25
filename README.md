@@ -1,4 +1,4 @@
-Hi, I'm https://github.com/Programmer-Salam/Programmer-salam/blob/main/
+Hi, I'm Badmus Iretomiwa
 
 Abdulsalam is a young Software Full-Stack developer with the use of sophisticated programming languages. I'm prolific and always willing to learn, have really worked on some projects that has been of great advantage to my skills and improved my knowledge, Not only my improvements to the computer programming languages ⚡.
 
