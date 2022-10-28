@@ -35,6 +35,7 @@ Sport: :basketball: Basketball :tennis: Tennis
 |     6| Typescript    |
 |     7| Sass          |
 |     8| css           |
+|     9| Javascript    |
   
 </details>
 
