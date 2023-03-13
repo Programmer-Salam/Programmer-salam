@@ -56,7 +56,7 @@ Sport: :basketball: Basketball :tennis: Tennis
 |-----:|---------------|
 |     1| Laravel       |
 |     2| Php/Oop       |
-|     3| MySqli        |
+|     3| MySql        |
 |     4| Ajax          |
 |     5| Html          |
 |     6| Typescript    |
@@ -72,6 +72,6 @@ Sport: :basketball: Basketball :tennis: Tennis
 
 >  <h2>“If debugging is the process of removing software bugs, then programming must be the process of putting them in”</h2>
 
--- Programmer-Salam
+Programmer-Salam
 
 
