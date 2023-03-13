@@ -2,7 +2,7 @@
 
 <h3>Abdulsalam</h3> is a young Software Full-Stack developer with the use of sophisticated programming languages. I'm prolific and always willing to learn, have really worked on some projects that has been of great advantage to my skills and improved my knowledge, Not only my improvements to the computer programming languages ⚡.
 <p></p>
-Experienced in HTML || CSS || PHP || OBJECT ORIENTED (OOP)  ||  LARAVEL ||  AJAX || MYSQL DATABASE || JAVASCRIPT......
+Experienced in HTML || SASS/TAILWIND/CSS || PHP || OBJECT ORIENTED (OOP)  ||  LARAVEL ||  AJAX || MYSQL DATABASE || JAVASCRIPT......
 <p></p>
 
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/72305068/189480718-fd371310-f6a2-4901-8b49-e338dd9a0cf6.svg) ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/72305068/189480741-0e1cfbeb-07db-46ca-8c33-e0768c70212c.svg) ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145](https://user-images.githubusercontent.com/72305068/189481146-1231ca00-8034-4039-9f46-61fb96c1c86d.svg)
