@@ -73,7 +73,7 @@ Experienced in HTML || SASS/TAILWIND/CSS || PHP || OBJECT ORIENTED (OOP)  ||  LA
 
 Sport: :basketball: Basketball :tennis: Tennis
 
-😄 Pronouns: He/His
+😄 Pronouns: He/She
 
 ⚡:blush: Fun fact: I spend 12 hours developing a 6 Days of Project.
 
