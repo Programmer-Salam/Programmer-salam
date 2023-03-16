@@ -5,7 +5,7 @@
 Experienced in HTML || SASS/TAILWIND/CSS || PHP || OBJECT ORIENTED (OOP)  ||  LARAVEL ||  AJAX || MYSQL DATABASE || JAVASCRIPT......
 <p></p>
 
-### Skills
+### MY Skills
 
 
 <p align="left">
