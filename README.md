@@ -84,11 +84,11 @@ Sport: :basketball: Basketball :tennis: Tennis
 |-----:|---------------|
 |     1| Laravel       |
 |     2| Php/Oop       |
-|     3| MySql        |
+|     3| MySql         |
 |     4| Ajax          |
 |     5| Html          |
 |     6| Typescript    |
-|     7| Sass          |
+|     7| Sass/Scss     |
 |     8| css           |
 |     9| Javascript    |
   
