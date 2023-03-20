@@ -89,7 +89,7 @@ Sport: :basketball: Basketball :tennis: Tennis
 |     5| Html          |
 |     6| Typescript    |
 |     7| Sass/Scss     |
-|     8| css           |
+|     8| css/Tailwind  |
 |     9| Javascript    |
   
 </details>
