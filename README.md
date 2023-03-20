@@ -57,6 +57,16 @@ Experienced in HTML || SASS/TAILWIND/CSS || PHP || OBJECT ORIENTED (OOP)  ||  LA
   
 </a>
 
+ADVANTAGE!  ADVANTAGE!!   ADVANTAGE!! 
+Do You Know the Full Meaning of CHATGPT  ???
+
+C: ChatGPT is currently down
+H: Huge demand has caused the site to crash
+A: All users will have to wait
+T: Time is needed for the servers to catch up
+G: Go grab a coffee and check back soon
+P: Patience is key in this situation
+T: Trust that the team is working hard to fix it up
 
 
 🔭 A Student of GigsTech Solutions & Consults
