@@ -96,7 +96,7 @@ Sport: :basketball: Basketball :tennis: Tennis
 
 <details>
 <summary>ADVANTAGE!  ADVANTAGE!!   ADVANTAGE!! </summary>
-   <p>Do You Know the Full Meaning of CHATGPT  ???</p>
+   <p style="color:blue;">Do You Know the Full Meaning of CHATGPT  ???</p>
   
 | Rank |   Languages   |
 |-----:|---------------|
