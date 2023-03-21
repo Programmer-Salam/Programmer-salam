@@ -2,7 +2,7 @@
 
 <h3>Abdulsalam</h3> is a Software Full-Stack developer with the use of sophisticated programming languages. I'm prolific and always willing to learn, have really worked on some projects that has been of great advantage to my skills and improved my knowledge, Not only my improvements to the computer programming languages ⚡.
 <p></p>
-Experienced in HTML || SASS/TAILWIND/CSS || PHP || OBJECT ORIENTED (OOP)  ||  LARAVEL 9/API ||  AJAX || MYSQL DATABASE || JAVASCRIPT/TYPESCRIPT......
+Experienced in HTML || SASS/TAILWIND/CSS || PHP || OBJECT ORIENTED (OOP)  ||  LARAVEL 9/API ||  AJAX || MYSQL DATABASE || JAVASCRIPT/TYPESCRIPT....
 <p></p>
 
 ### MY Skills
@@ -61,7 +61,7 @@ Experienced in HTML || SASS/TAILWIND/CSS || PHP || OBJECT ORIENTED (OOP)  ||  LA
 
 🔭 A Student of GigsTech Solutions & Consults
 
-🔭 I’m currently working on  <a href>Laravel.com</a> 
+🔭 I’m currently on  <a href>Laravel</a> 
 
 🛠 I’m currently learning Laravel 9
 
