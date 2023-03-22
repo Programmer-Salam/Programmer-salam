@@ -114,7 +114,7 @@ Sport: :basketball: Basketball :tennis: Tennis
 
 <p align="left"> <a href="https://www.facebook.com/Programmer To Mi Wa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>  <a href="http://www.instagram.com/programmer_salam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/badmus-iretomiwa-11228b230/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/programmer-salam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Badmus_Salam222" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
->  <h2>“If debugging is the process of removing software bugs, then programming must be the process of putting them in”</h2>
+>  <h2>“If debugging is the process of removing software bugs, then programming must be the process of putting them in..”</h2>
 
 Programmer-Salam
 
