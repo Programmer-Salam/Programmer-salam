@@ -97,7 +97,7 @@ Sport: :basketball: Basketball :tennis: Tennis
    <p>Do You Know the Full Meaning of CHATGPT  ???</p>
   
 | Rank |   Languages   |
-|-----:|---------------|
+|------|---------------|
 |     1| ChatGPT is currently down                           |
 |     2| Huge demand has caused the site to crash            |
 |     3| All users will have to wait                         |
