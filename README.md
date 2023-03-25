@@ -73,7 +73,7 @@ Sport: :basketball: Basketball :tennis: Tennis
 
 😄 Pronouns: He/She
 
-⚡:blush: Fun fact: I spend 12 hours developing a 3 Days of Project.
+⚡:blush: Fun fact: I spend 12 hours developing a 3 Days of Project !!
 
 <details>
 <summary>My top languages </summary>
