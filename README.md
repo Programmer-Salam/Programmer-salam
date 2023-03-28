@@ -35,7 +35,7 @@ Experienced in HTML || SASS/TAILWIND/CSS || PHP || OBJECT ORIENTED (OOP)  ||  LA
 
 ![](https://camo.githubusercontent.com/15b7da9c5e50455ef7c50a5d642afad7ab8d752e575010116727c3865beb026d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a51756572792d3037363941443f7374796c653d666f722d7468652d6261646765266c6f676f3d6a7175657279266c6f676f436f6c6f723d7768697465)
 ![](https://camo.githubusercontent.com/42ada9cc774b9d2b4cf35691820a881d70657ae42c3a074f00c7e9add6352361/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c5f53747564696f5f436f64652d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c25323073747564696f253230636f6465266c6f676f436f6c6f723d7768697465) ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfNKnGIzqTALL7wRrxjmGnBEwKlsqiBM2OIw&usqp=CAU)
-
+![fgg](https://upload.wikimedia.org/wikipedia/commons/3/36/Logo.min.svg)
 <h1 style="color:blue;">Let's get Connected</h1>
 
 <a href="http://www.linkedin.com/in/badmus-iretomiwa-11228b230/">
@@ -59,7 +59,6 @@ Experienced in HTML || SASS/TAILWIND/CSS || PHP || OBJECT ORIENTED (OOP)  ||  LA
 
 🔭 A Student of GigsTech Solutions & Consults
 
-🔭 I’m currently on  <a href>Laravel</a> 
 
 🛠 I’m currently learning Laravel 9
 
