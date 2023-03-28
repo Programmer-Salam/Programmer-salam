@@ -4,12 +4,12 @@
 <p></p>
 Experienced in HTML || SASS/TAILWIND/CSS || PHP || OBJECT ORIENTED (OOP)  ||  LARAVEL 9/API Integration ||  AJAX || MYSQL DATABASE || JAVASCRIPT/TYPESCRIPT....
 <p></p>
-
+[68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145](https://user-images.githubusercontent.com/72305068/189481146-1231ca00-8034-4039-9f46-61fb96c1c86d.svg)
 ### MY Skills
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-   [68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145](https://user-images.githubusercontent.com/72305068/189481146-1231ca00-8034-4039-9f46-61fb96c1c86d.svg)
+   
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
    
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
