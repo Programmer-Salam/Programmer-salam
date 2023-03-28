@@ -1,6 +1,6 @@
 <h4>Hi, I'm <a href="https://github.com/Programmer-Salam"> BADMUS-IRETOMIWA-ABDULSALAM </a></h4>
 
-<h3> Abdulsalam </h3> is a Full Stack Software developer with the use of sophisticated and undiluted programming languages. I'm prolific and always willing to learn, i have really worked on some projects that has been of great advantage to my skills and improved my knowledge, Not only my improvements to the computer programming languages ⚡⚡⚡.
+<h3> Abdulsalam </h3> is a Full Stack Software developer with the use of sophisticated and undiluted programming languages. I'm prolific and always willing to learn, i have really worked on some projects that has been of great advantage to my skills and improved my knowledge, Not only my improvements to the computer programming languages ⚡⚡.
 <p></p>
 Experienced in HTML || SASS/TAILWIND/CSS || PHP || OBJECT ORIENTED (OOP)  ||  LARAVEL 9/API Integration ||  AJAX || MYSQL DATABASE || JAVASCRIPT/TYPESCRIPT....
 <p></p>
