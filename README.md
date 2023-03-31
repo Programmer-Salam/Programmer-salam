@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Developer
 ------------------------
 
-I am Full Stack Software Developer that\`s currently living in Nigeria (Oyo State) and Studying Computer Science in a Higher Institution of Science, Along the Journey i realised my passion existed in helping other excel and pursue their dreams as upcoming developers. With this passion, I have Created Many Real Value Projects to help to the world developed. E.G Hrms System, Fintech, Edutech, E-commerce Website ETC... I love putting all I have learnt into new projects and tasks to add values most especially on users interface when developing new software.I aim to work collaboratively with a team of professionals to create applications that are user-friendly, scalable, and efficient, using my listed Programming Language skills. With my strong communication and problem-solving skills, I am confident in my ability to work effectively with cross-functional teams, contribute to agile development processes, and deliver high-quality software solutions.
+I am Full Stack Software Developer, I have Created Many Real Value Projects to help to the world developed. E.G Hrms System, Fintech, Edutech, E-commerce Website ETC... I love putting all I have learnt into new projects and tasks to add values most especially on users interface when developing new software.I aim to work collaboratively with a team of professionals to create applications that are user-friendly, scalable, and efficient, using my listed Programming Language skills.
 
 * 🌍  I'm based in NIGERIA
 * 🖥️  See my portfolio at [First Project](http://tomiwaportfolio.com.ng/)
@@ -56,8 +56,6 @@ src="https://img.shields.io/github/followers/programmer-salam?logo=github&style=
 <a href="http://www.github.com/programmer-salam"><img src="https://github-readme-streak-stats.herokuapp.com/?user=programmer-salam&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/programmer-salam"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=programmer-salam&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/programmer-salam" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmer-salam&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
