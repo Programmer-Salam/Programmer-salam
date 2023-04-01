@@ -11,7 +11,7 @@ I am Full Stack Software Developer, I have Created Many Real Value Projects to h
 * ✉️  You can contact me at [abdulsalambadmus955@gmail.com](mailto:abdulsalambadmus955@gmail.com)
 * 🧠  I'm learning Laravel Framework
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  I use 5days in developing 1month project, Don't tell anyone else
+* ⚡  I use 5 days in developing 1 month project, Don't tell anyone. Just Confirm by Trying me Out !!
 
 <a href="https://www.github.com/programmer-salam" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/programmer-salam?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
