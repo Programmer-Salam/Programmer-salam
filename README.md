@@ -3,24 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Full Stack Web Developer 
 ------------------------ 
-
-    public function login (Request $request){
-        $input = $request->all();
-        $this->validate($request,[
-            'email'=>'required|email',
-            'password'=>'required'
-        ]);
-        if(auth()->attempt(array('email'=>$input['email'],'password'=>$input['password']))){
-            if(auth()->user()->is_admin == 1 && auth()->user()->type == "Admin"){
-                return redirect()->route('admin.home');
-            }else{
-                return redirect()->route('staff.home');
-            }
-        }else{
-    return redirect()->back()->with('error','Oops Input Proper Email or Password');
-
-        }
-    }
     
 I am Full Stack Software Developer, I have Created Many Real Value Projects to help to the world developed. E.G Hrms System, Fintech, Edutech, E-commerce Website ETC... I love putting all I have learnt into new projects and tasks to add values most especially on users interface when developing new software.I aim to work collaboratively with a team of professionals to create applications that are user-friendly, scalable, and efficient, using my listed Programming Language skills.
 
