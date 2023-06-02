@@ -5,8 +5,8 @@ Full Stack Web Developer (Intern)
 ---------------------------------            
           
 I am Full Stack Software Developer, I have Created Many Real Value Projects to help to the world developed. E.G Hrms System, Fintech, Edutech, E-commerce Website ETC... I love putting all I have learnt into new projects and tasks to add values most especially on users interface when developing new software.I aim to work collaboratively with a team of professionals to create applications that are user-friendly, scalable, and efficient, using my listed Programming Language skills.
-    
-* 🌍  I'm based in NIGERIA (OYO-STATE) 
+     
+* 🌍    I'm based in NIGERIA (OYO-STATE) 
 * 🖥️  See my [First Project](http://tomiwaportfolio.com.ng/)
 * ✉️  You can contact me at [abdulsalambadmus955@gmail.com](mailto:abdulsalambadmus955@gmail.com)
 * 🧠  I'm learning Laravel Framework
@@ -17,7 +17,7 @@ I am Full Stack Software Developer, I have Created Many Real Value Projects to h
 src="https://img.shields.io/github/followers/programmer-salam?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> 
 
 ### Skills        
- 
+     
 <p align="left">
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
