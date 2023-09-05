@@ -1,5 +1,16 @@
  Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is BADMUS TOMIWA ABDULSALAM    
-================================================================================================================================================                                                      
+================================================================================================================================================                                                               
+That's great news! It sounds like the IbadanTechExpo Event is going to be an exciting opportunity for software developers and tech enthusiasts in Ibadan. Here's a sample LinkedIn post you can use to thank the organizers and notify your followers about the event:
+
+🚀 Exciting News! I'm thrilled to announce that I've been selected to attend the IbadanTechExpo Event happening on Saturday, September 9th, 2023, at The International Conference Center, Agbowo, Ibadan. 🎉
+
+This dynamic and vibrant gathering celebrates the world of technology and innovation in Ibadan, and I can't wait to be a part of it. I've got my ticket, and I'm ready to dive into a day filled with learning, networking, and inspiration!
+
+A big shoutout to the organizers for making this event possible. Thank you for creating such an incredible opportunity for tech enthusiasts like me. 🙏
+
+If you're as excited as I am about the tech scene in Ibadan, don't miss out! Get your tickets at ibadantechexpo.com and join me at the event. Let's connect, learn, and celebrate the world of technology together.
+
+See you there! 🚀 #IbadanTechExpo #TechInnovation #Networking
                                               
 Full Stack Web Developer (Intern)      
 ---------------------------------                           
