@@ -1,7 +1,7 @@
  Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is BADMUS TOMIWA ABDULSALAM    
 ================================================================================================================================================                   
                                                                           
-Full Stack Web Developer (Intern)                  
+Full Stack Web Developer (Intern)                   
 ---------------------------------                                       
                          
 I am Full Stack Software Developer, I have Created Many Real Value Projects to help to the world developed. E.G Hrms System, Fintech, Edutech, E-commerce Website ETC... I love putting all I have learnt into new projects and tasks to add values most especially on users interface when developing new software.I aim to work collaboratively with a team of professionals to create applications that are user-friendly, scalable, and efficient, using my listed Programming Language skills. 
