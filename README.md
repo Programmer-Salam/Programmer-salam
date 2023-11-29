@@ -3,9 +3,6 @@ Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
                                                                                                            
 Full Stack Web Developer (Intern)                                 
 ---------------------------------                                                                      
-  Good morning sir, I hope this message finds you well. I have been trying to visit your office to submit my project  but unfortunately, I haven't been able to meet with you. I understand that you may have a busy schedule.
-
-Could you please let me know when would be a convenient time for me to come by and submit my project sir ??
 I am Full Stack Software Developer, I have Created Many Real Value Projects to help to the world developed. E.G Hrms System, Fintech, Edutech, E-commerce Websites ETC... I love putting all I have learnt into new projects and tasks to add values most especially on users interface when developing new software. I aim to work collaboratively with a team of professionals to create applications that are user-friendly, scalable, and efficient, using my listed Programming Language skills.  
           
 * 🌍   I'm based in NIGERIA (OYO-STATE)     
