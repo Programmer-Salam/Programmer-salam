@@ -3,7 +3,7 @@
                                                                                                                                    
 Full Stack Web Developer (Intern)                                     
 ---------------------------------                                                                         
-I am Full Stack Software Developer, I have Created Many Real Value Projects to help to the world developed. E.G Hrms System, Fintech, Edutech, E-commerce Websites ETC... I love putting all I have learnt into new projects and tasks to add values most especially on users interface when developing new software. I aim to work collaboratively with a team of professionals to create applications that are user-friendly, scalable, and efficient, using my listed Programming Language skills.  
+I am Full Stack Software Developer, I have Created Many Real Value Projects to help to the world developed. E.G Hrms System, Fintech, Edutech, E-commerce Websites ETC... I love putting all I have learnt into new projects and tasks to add values most especially on users interface when developing new software. I aim to work collaboratively with a team of professionals to create applications that are user-friendly, scalable, and efficient, using my listed Programming Language skills.   
           
 * 🌍   I'm based in NIGERIA (OYO-STATE)     
 * 🖥️  Projects 
