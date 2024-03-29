@@ -5,7 +5,7 @@ I am Full Stack Software Developer, I have Created Many Real Value Projects to h
                       
 * 🌍   I'm based in NIGERIA (OYO-STATE)                                       
 * 🖥️  Projects                                                                                                                                                                            
-* ✉️  You can contact me at [abdulsalambadmus955@gmail.com](mailto:abdulsalambadmus955@gmail.com)                                                         
+* ✉️  You can contact me at [abdulsalambadmus955@gmail.com](mailto:abdulsalambadmus955@gmail.com)                                                          
 * 🧠  I'm currently learning Vue Js                                                                                           
 * 🤝  I'm open to collaborating on interesting projects.                                                          
 * ⚡  I use 5 days in developing 1 month project, Confirm by Trying me Out !!!!                
