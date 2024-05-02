@@ -1,40 +1,42 @@
-
-
-
-    private function isVerificationCodeExpired(User $user)
+public function verifyEmail(Request $request)
     {
-        // Check if the user has a verification code and it was requested more than one minute ago
-        return $user->verification_code_requested_at && now()->diffInMinutes($user->verification_code_requested_at) >= 1;
-    }     
-    
-    public function requestNewCode()
-    {
+        // Validate the submitted verification code
+        $request->validate([
+            'verification_code' => 'required|digits:4'
+        ]);
+
         $id = Auth::user()->id;
         $user=User::find($id);
 
-        // Generate and send a new verification code via email
-        $verificationCode = mt_rand(1000, 9999);
-        $user->verification_code = $verificationCode;
-        $user->verification_code_requested_at = now();
-        $user->update();
 
-        // Send verification code via email
-        Mail::to($user->email)->send(new VerificationCodeMail($verificationCode));
+        // Check if verification code matches
+        if ($user->verification_code == $request->verification_code) {
+            // Check if the code has expired
+            if ($this->isVerificationCodeExpired($user)) {
+                return back()->with('error', 'The verification code has expired. Please request a new one.');
+            }
 
-        return redirect()->back()->with('success', 'A new verification code has been sent to your email.');
+            // Verification successful, clear the verification code
+            $user->verification_code = null;
+            $user->save();
+
+            // Redirect to the desired page after successful verification
+            return redirect()->intended('home');
+        } else {
+            // Incorrect verification code, redirect back with error message
+            return back()->with('error', 'Incorrect verification code. Please try again.');
+        }
     }
-  
 
+      $verificationCode = mt_rand(1000, 9999);
+                $newUser->verification_code = $verificationCode;
+                $newUser->verification_code_requested_at = now();
+                $newUser->save();
 
+                // Send verification code via email
+                Mail::to($newUser->email)->send(new VerificationCodeMail($verificationCode));
 
-
-
-
-
-
-
-
-
+              
 
 
 
