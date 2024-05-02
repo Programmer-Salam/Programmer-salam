@@ -1,3 +1,47 @@
+
+
+
+    private function isVerificationCodeExpired(User $user)
+    {
+        // Check if the user has a verification code and it was requested more than one minute ago
+        return $user->verification_code_requested_at && now()->diffInMinutes($user->verification_code_requested_at) >= 1;
+    }     
+    
+    public function requestNewCode()
+    {
+        $id = Auth::user()->id;
+        $user=User::find($id);
+
+        // Generate and send a new verification code via email
+        $verificationCode = mt_rand(1000, 9999);
+        $user->verification_code = $verificationCode;
+        $user->verification_code_requested_at = now();
+        $user->update();
+
+        // Send verification code via email
+        Mail::to($user->email)->send(new VerificationCodeMail($verificationCode));
+
+        return redirect()->back()->with('success', 'A new verification code has been sent to your email.');
+    }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Hello![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm BADMUS TOMIWA ABDULSALAM             
 ================================================================================================================================================                                           
 Full Stack Web Developer                                                                                                                                                   
