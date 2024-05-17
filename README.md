@@ -1,3 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        /* Add your custom CSS */
+.career-interests ul {
+    list-style-type: none;
+    padding: 20;
+}
+
+.career-interests li {
+    display: inline-block;
+    margin-right: 10px;
+    gap: 10%;
+    padding: 10px;
+}
+
+.career-interests a {
+    text-decoration: none;
+    color: #333;
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.career-interests a:hover {
+    background-color: #f0f0f0;
+}
+
+.actions {
+    margin-top: 20px; 
+}  
+
+.pick-later {
+    margin-left: 10px;
+}
+
+    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    
+<div class="container">
+    <h1>Select your New Security question</h1>
+    <?php //echo  auth()->user()->id; ?>
+    <form method="post" action="{{ route('security.store') }}" >
+        @csrf
+        <ul>
+            <label for="">Security question one</label>
+            @foreach($Security as $interest)
+                <li>
+                    <label>
+                        <input type="checkbox" name="security1" value="{{ $interest->id }}">
+                        {{ $interest->questions }}
+                    </label>
+                </li>
+            @endforeach
+        </ul><br/><br/>
+        <input type="text" placeholder="Security answer one" name="answer1">
+        <br><br>
+        <ul>
+            <label for="">Security question two</label>
+            @foreach($Security as $interest)
+                <li>
+                    <label>
+                        <input type="checkbox" name="security2" value="{{ $interest->id }}">
+                        {{ $interest->questions }}
+                    </label>
+                </li>
+            @endforeach
+        </ul><br/><br/>
+        <input type="text" placeholder="Security answer two" name="answer2">
+
+        <!-- Input fields for username, phone number, bio, and profile image upload -->
+        <div>
+            <!-- Input fields for username, phone number, bio -->
+            <!-- Profile image upload field -->
+        </div>
+        <button type="submit" class="btn btn-primary">continue</button>
+    </form>
+</div>
+
+</body>
+</html>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  Hello![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm BADMUS TOMIWA ABDULSALAM                
 ================================================================================================================================================    
 Full Stack Web Developer                                                                                                                                                           
