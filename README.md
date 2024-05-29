@@ -1,9 +1,15 @@
-
+The main idea is to first get the *ip* of the domain. Then get the *country code* of the domain that is being checked using the geoipReader.
 
 
 Depending on the status code of the get request then you can determine if it is blocked or not
 
+The first check is:
+Is the country turkey. If the country code is not from Turkey I.e countrycode !==TR you can just return and leave it without the che check for now (meaning to say we will consider it is not blocked)
 
+Second check:
+The country code is TR
+I.e. $countryCode ==="TR"
+Then first check if you can access the domain by sending a httpClient->get request to the domain 
 
 
 
