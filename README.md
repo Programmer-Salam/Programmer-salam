@@ -1,3 +1,12 @@
+
+
+
+Depending on the status code of the get request then you can determine if it is blocked or not
+
+
+
+
+
 Hello![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm BADMUS TOMIWA ABDULSALAM                            
 ================================================================================================================================================         
 
