@@ -4,7 +4,7 @@ Full Stack Web Developer
 I am Full Stack Software Developer, I have created many real value projects to help to the world developed. E.G Hrms System, Fintech, Blogs, Edutech, Inventory, E-commerce, ETC..... I love putting all I have learnt into new projects and tasks to add values most especially on users interface when developing new software. I aim to work collaboratively with a team of professionals to create applications that are user-friendly, scalable, and efficient.                                      
                 
 * 🌍  I'm based in NIGERIA (OYO-STATE)                                                                                
-* 🖥️  Projects 
+* 🖥️  Projects  
 * ✉️  You can contact me at [abdulsalambadmus955@gmail.com](mailto:abdulsalambadmus955@gmail.com)                                                                                         
 * 🧠  I'm currently on running backend for a mobile application                                                                                      
 * 🤝  I'm open to collaborating on interesting projects.                                                            
