@@ -1,14 +1,39 @@
-Hello![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm BADMUS TOMIWA ABDULSALAM                      
-================================================================================================================================================                                           
-Full Stack Web Developer                                                                                                                                                                          
-I am Full Stack Software Developer, I have created many real value projects to help to the world developed. e.g Hrms System, Fintech, Blogs, Edutech, Inventory, E-commerce, ETC..... I love putting all I have learnt into new projects and tasks to add values most especially on users interface when developing new software. I aim to work collaboratively with a team of professionals to create applications that are user-friendly, scalable, and efficient.                                                            
- 
-* 🌍  I'm based in NIGERIA (OYO-STATE)                                                                                                                                                     
-* 🖥️  Projects                                     
-* ✉️  You can contact me at [abdulsalambadmus955@gmail.com](mailto:abdulsalambadmus955@gmail.com)                                         
-* 🧠  I'm currently on running backend for a mobile application                     
-* 🤝  I'm open to collaborating on interesting projects.        
-* ⚡  I use 5 days in developing 1 month project, Confirm by Trying me Out !!!!                                    
+# 👨‍💻 Badmus Tomiwa Abdulsalam
+
+**💻 Full Stack Software Developer**
+
+I design and build web applications that solve real problems. From ⚙️ backend architecture to 🎨 front-end interfaces, I focus on making software that’s fast, scalable, and easy to use. I’ve built systems in 🏢 HR, 💳 fintech, 🛒 e-commerce, 📚 education, and 📦 inventory management.
+
+What drives me is creating tools that people actually enjoy using — not just code that works, but code that adds value.
+
+---
+
+### 🛠 Skills & Tools
+
+**Languages:** PHP 🐘, JavaScript ⚡, SQL 🗄, HTML 🌐, CSS 🎨
+**Frameworks:** Laravel 🚀, React ⚛️
+**Databases:** MySQL 🛢, PostgreSQL 🐘
+**Other:** REST APIs 🔗, Git 📂, Payment Integrations 💳
+
+---
+
+### 📌 Work Highlights
+
+* 🧾 Built an HRMS that streamlined employee and payroll management for SMEs
+* 💵 Developed fintech features including secure payment processing and account verification
+* 🛍 Created an e-commerce platform with full order, inventory, and payment workflows
+* 📱 Delivered scalable backends for mobile applications
+
+---
+
+### 🎯 Current Focus
+
+Improving backend systems for a mobile app project with an emphasis on ⚡ performance and 🧹 clean architecture.
+
+---
+
+📫 **Contact:** [abdulsalambadmus955@gmail.com](mailto:abdulsalambadmus955@gmail.com)
+🌍 **Based in:** Oyo State, Nigeria
    
 <a href="https://www.github.com/programmer-salam" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/programmer-salam?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> 
  
