@@ -8,7 +8,7 @@ What drives me is creating tools that people actually enjoy using — not just c
   
 ---
 
-### 🛠 Skills & Tools 
+### 🛠 Skills & Tools  
 
 **Languages:** PHP 🐘, JavaScript ⚡, SQL 🗄, HTML 🌐, CSS 🎨
 **Frameworks:** Laravel 🚀, React ⚛️
