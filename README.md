@@ -15,7 +15,7 @@ What drives me is creating tools that people actually enjoy using — not just c
 **Databases:** MySQL 🛢, PostgreSQL 🐘
 **Other:** REST APIs 🔗, Git 📂, Payment Integrations 💳
 
----
+--- 
 
 ### 📌 Work Highlights
 
