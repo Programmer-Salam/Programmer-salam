@@ -1,4 +1,4 @@
-# 👨‍💻 BADMUS TOMIWA ABDULSALAM                           
+# 👨‍💻 BADMUS IRETOMIWA ABDULSALAM                           
    
 **💻 Full Stack Software Developer**           
    
