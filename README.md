@@ -12,7 +12,7 @@ What drives me is creating tools that people actually enjoy using — not just c
   
 **Languages:** PHP 🐘, Node Js, JavaScript ⚡, SQL 🗄, MONGO DB, HTML 🌐, CSS 🎨  
 **Frameworks:** Laravel/Express 🚀 ⚛️
-**Databases:** MySQL 🛢, PostgreSQL 🐘
+**Databases:** MySQL 🛢, PostgreSQL 🐘 
 **Other:** REST APIs 🔗, Git 📂, Payment Integrations 💳
 
 --- 
