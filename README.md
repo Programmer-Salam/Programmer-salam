@@ -1,4 +1,4 @@
-# 👨‍💻 I'M BADMUS IRETOMIWA ABDULSALAM                            
+# 👨‍💻 I'M BADMUS IRETOMIWA ABDULSALAM                             
           
 **💻 Full Stack Software Developer**                       
       
