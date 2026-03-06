@@ -30,7 +30,7 @@ What drives me is creating tools that people actually enjoy using — not just c
 
 Improving backend systems for a mobile app project with an emphasis on ⚡ performance and 🧹 clean architecture.
 
----
+----
 
 📫 **Contact:** [abdulsalambadmus955@gmail.com](mailto:abdulsalambadmus955@gmail.com)
 🌍 **Based in:** Oyo State, Nigeria
