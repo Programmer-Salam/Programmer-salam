@@ -1,70 +1,185 @@
-# 👨‍💻 I'M BADMUS IRETOMIWA ABDULSALAM                             
-          
-**💻 Full Stack Software Developer**                       
-       
-I design and build web applications that solve real problems. From ⚙️ backend architecture to 🎨 front-end interfaces, I focus on making software that’s fast, scalable, and easy to use. I’ve built systems in 🏢 HR, 💳 fintech, 🛒 e-commerce, 📚 education, and 📦 inventory management.                       
-               
-                                                                                               
-What drives me is creating tools that people actually enjoy using — not just code that works, but code that adds value.                                                                                                                                                                                                                                                                     
-                                       
----                      
-                 
-### 🛠 Skills & Tools          
-    
-**Languages:** PHP 🐘, Node Js, JavaScript ⚡, SQL 🗄, MONGO DB, HTML 🌐, CSS 🎨  
-**Frameworks:** Laravel/Express 🚀 ⚛️
-**Databases:** MySQL 🛢, PostgreSQL 🐘 
-**Other:** REST APIs 🔗, Git 📂, Payment Integrations 💳
+<?php 
+$page_title = "My Profile";
+include '../includes/header-user.php'; 
 
---- 
+$conn = mysqli_connect("localhost", "root", "", "fintech");
 
-### 📌 Work Highlights
+$id = $_SESSION['user_id'];
 
-* 🧾 Built an HRMS that streamlined employee and payroll management for SMEs
-* 💵 Developed fintech features including secure payment processing and account verification
-* 🛍 Created an e-commerce platform with full order, inventory, and payment workflows
-* 📱 Delivered scalable backends for mobile applications
+// Fetch user
+$checks = "SELECT * FROM signup WHERE id = '$id'";
+$runs = mysqli_query($conn, $checks);
+$rows = mysqli_fetch_assoc($runs);
 
----
+// Wallet
+$sqlp = "SELECT wallet_id FROM wallet WHERE id = '$id'";
+$resultp = mysqli_query($conn, $sqlp);
+$rowp = mysqli_fetch_assoc($resultp);
+$wallet_id = $rowp['wallet_id'];
 
-### 🎯 Current Focus
+// UPDATE PROFILE
+if (isset($_POST['update'])) {
 
-Improving backend systems for a mobile app project with an emphasis on ⚡ performance and 🧹 clean architecture.
+    $fullname = $_POST['fullname'];
+    $email = $_POST['email'];
+    $phonenumber = $_POST['phone'];
 
----
+    // IMAGE UPLOAD
+    $profile_pic = $rows['profile_pic'];
 
-📫 **Contact:** [abdulsalambadmus955@gmail.com](mailto:abdulsalambadmus955@gmail.com)
-🌍 **Based in:** Oyo State, Nigeria
-   
-<a href="https://www.github.com/programmer-salam" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/programmer-salam?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> 
- 
-### Skills                  
-                         
-<p align="left"> 
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>   
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a> 
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
-  <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" width="36" height="36" alt="Sketch" /></a>
-</p>
+    if (!empty($_FILES['profile_pic']['name'])) {
+        $file_name = time() . '_' . $_FILES['profile_pic']['name'];
+        $tmp_name = $_FILES['profile_pic']['tmp_name'];
 
- 
-#### Socials 
+        move_uploaded_file($tmp_name, "../uploads/" . $file_name);
+        $profile_pic = $file_name;
+    }
 
-<p align="left"> <a href="https://www.dev.to/badmus-tomiwa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/tomiwa.badmus.10" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/programmer-salam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://badmus-tomiwa.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/programmer_salam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/badmus-iretomiwa-11228b230/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/badmustomiwa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/badmus-tomiwa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Badmus_Salam222" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+    $sql = "UPDATE signup SET fullname=?, email=?, phone=?, profile_pic=? WHERE id=?";
+    $stmt = mysqli_prepare($conn, $sql);
+
+    mysqli_stmt_bind_param($stmt, "ssssi",
+        $fullname,
+        $email,
+        $phonenumber,
+        $profile_pic,
+        $id
+    );
+
+    mysqli_stmt_execute($stmt);
+
+    echo "Profile updated successfully!";
+}
+
+
+// CHANGE PASSWORD
+if (isset($_POST['change'])) {
+
+    $curpassword = $_POST['cur_password'];
+    $newpassword = $_POST['new_password'];
+    $conpassword = $_POST['confirm_password'];
+
+    $check = "SELECT * FROM signup WHERE id= '$id'";
+    $run = mysqli_query($conn,$check);
+    $row = mysqli_fetch_assoc($run);
+
+    if ($curpassword != $row['passwords']) {
+        echo "Current password is wrong!";
+        exit();
+    }
+
+    if ($newpassword !== $conpassword) {
+        echo "Passwords do not match!";
+        exit();
+    }
+
+    $sql = "UPDATE signup SET passwords='$newpassword' WHERE id='$id'";
+    mysqli_query($conn, $sql);
+
+    echo "Password changed successfully!";
+}
+?>
+
+<div class="grid grid-2">
+
+    <!-- PROFILE -->
+    <div class="card">
+        <div class="card-header">
+            <h3 class="card-title">Personal Information</h3>
+        </div>
+
+        <!-- IMAGE -->
+        <div style="text-align:center; margin-bottom:24px;">
+            <label for="profile_pic" style="cursor:pointer;">
+                <img id="previewImage"
+                     src="../uploads/<?php echo $rows['profile_pic'] ?? 'default.png'; ?>"
+                     style="width:100px;height:100px;border-radius:50%;object-fit:cover;">
+            </label>
+
+            <input type="file" name="profile_pic" id="profile_pic" hidden>
+
+            <br><br>
+
+            <button type="button" class="btn btn-secondary btn-sm"
+                onclick="document.getElementById('profile_pic').click()">
+                <i class="fas fa-camera"></i> Change Photo
+            </button>
+        </div>
+
+        <form method="post" enctype="multipart/form-data">
+
+            <div class="form-group">
+                <label>Full Name</label>
+                <input type="text" name="fullname" class="form-control"
+                       value="<?php echo $rows['fullname']; ?>" required>
+            </div>
+
+            <div class="form-group">
+                <label>Email</label>
+                <input type="email" name="email" class="form-control"
+                       value="<?php echo $rows['email']; ?>" required>
+            </div>
+
+            <div class="form-group">
+                <label>Phone</label>
+                <input type="text" name="phone" class="form-control"
+                       value="<?php echo $rows['phone']; ?>" required>
+            </div>
+
+            <button type="submit" name="update" class="btn btn-primary w-full">
+                Update Profile
+            </button>
+        </form>
+    </div>
+
+
+    <!-- SECURITY -->
+    <div class="card">
+        <div class="card-header">
+            <h3>Password</h3>
+        </div>
+
+        <form method="POST">
+
+            <div class="form-group">
+                <input type="password" name="cur_password" placeholder="Current Password" required>
+            </div>
+
+            <div class="form-group">
+                <input type="password" name="new_password" placeholder="New Password" required>
+            </div>
+
+            <div class="form-group">
+                <input type="password" name="confirm_password" placeholder="Confirm Password" required>
+            </div>
+
+            <button type="submit" name="change" class="btn btn-primary w-full">
+                Change Password
+            </button>
+        </form>
+    </div>
+
+</div>
+
+
+<!-- ACCOUNT INFO -->
+<div class="card mt-4">
+    <h3>Account Info</h3>
+
+    <p>User ID: <?php echo $id; ?></p>
+    <p>Wallet ID: <?php echo $wallet_id; ?></p>
+    <p>Member Since: <?php echo $rows['joined_at']; ?></p>
+</div>
+
+
+<!-- PREVIEW SCRIPT -->
+<script>
+document.getElementById('profile_pic').addEventListener('change', function(e) {
+    const file = e.target.files[0];
+    if (file) {
+        document.getElementById('previewImage').src = URL.createObjectURL(file);
+    }
+});
+</script>
+
+<?php include '../includes/footer.php'; ?>
