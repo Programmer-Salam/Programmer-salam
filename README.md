@@ -1,6 +1,6 @@
 # 👨‍💻 I'M BADMUS IRETOMIWA ABDULSALAM                             
           
-**💻 Full Stack Software Developer**                       
+**💻 Full Stack Software Developer**                        
 
 I design and build web applications that solve real problems. From ⚙️ backend architecture to 🎨 front-end interfaces, I focus on making software that’s fast, scalable, and easy to use. I’ve built systems in 🏢 HR, 💳 fintech, 🛒 e-commerce, 📚 education, and 📦 inventory management.                          
              
