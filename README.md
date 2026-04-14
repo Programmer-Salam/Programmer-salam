@@ -5,7 +5,7 @@
 I design and build web applications that solve real problems. From ⚙️ backend architecture to 🎨 front-end interfaces, I focus on making software that’s fast, scalable, and easy to use. I’ve built systems in 🏢 HR, 💳 fintech, 🛒 e-commerce, 📚 education, and 📦 inventory management.                             
                       
                                                                                                             
-What drives me is creating tools that people actually enjoy using — not just code that works, but code that adds value.                                                                                                                                                                                                                                                                                        
+What drives me is creating tools that people actually enjoy using — not just code that works, but code that adds value.                                                                                                                                                                                                                                                                                         
                                            
 ---                        
                   
