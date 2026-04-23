@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👨‍💻 BADMUS IRETOMIWA ABDULSALAM  
-
+ 
 **💻 Full Stack Software Developer**
 
 <p>
