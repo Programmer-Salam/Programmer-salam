@@ -5,7 +5,7 @@
 **💻 Full Stack Software Developer** 
     
 <p>  
-I design and build web applications that solve real problems.<br>
+I design and build web applications that solve real problems.<br> 
 From backend architecture to front-end interfaces, I focus on speed, scalability, and usability.    
 </p>   
  
