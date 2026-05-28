@@ -2,7 +2,7 @@
  
 # BADMUS IRETOMIWA ABDULSALAM    
       
-**Full Stack Software Developer**      
+**Full Stack Software Developer**       
         
 <p>    
 I design and build web applications that solve real problems.<br>          
