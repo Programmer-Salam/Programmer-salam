@@ -13,7 +13,7 @@ From backend architecture to front-end interfaces, I focus on speed, scalability
        
 --- 
 
-## 🚀 About Me
+## 🚀 About Me 
    
 I’ve built systems across multiple domains including:
 
