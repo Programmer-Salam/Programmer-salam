@@ -11,7 +11,7 @@ From backend architecture to front-end interfaces, I focus on speed, scalability
         
 </div>        
        
---- 
+---  
 
 ## 🚀 About Me 
    
