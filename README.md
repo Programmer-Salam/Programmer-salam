@@ -148,7 +148,6 @@ const badmus = {
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=programmer-salam&theme=react-dark&hide_border=true&bg_color=0d1117&color=38BDAE&line=38BDAE&point=ffffff&area=true&area_color=203a43" width="100%" alt="Activity Graph"/>
 
-<br/><br/>
 
 <!-- ═══════════════════════════ TROPHIES ═══════════════════════════ -->
 
