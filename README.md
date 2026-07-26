@@ -152,7 +152,7 @@ const badmus = {
 
 <!-- ═══════════════════════════ TROPHIES ═══════════════════════════ -->
 
-<img src="https://raw.githubusercontent.com/programmer-salam/programmer-salam/main/profile/trophy.svg" alt="GitHub Trophies"/>
+<img src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" alt="GitHub Trophies"/>
 
 <br/><br/>
 
