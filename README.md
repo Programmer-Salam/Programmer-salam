@@ -152,9 +152,15 @@ const badmus = {
 
 <!-- ═══════════════════════════ TROPHIES ═══════════════════════════ -->
 
- <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"  alt="GitHub Profile Trophy"/>
+<div align="center">
+  <img
+    src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"
+    alt="GitHub Profile Trophy"
+    width="80"
+    style="margin:20px auto; display:block;"
+  />
+</div>
 
-<br/><br/>
 
 <!-- ═══════════════════════════ CONTRIBUTION SNAKE ═══════════════════════════ -->
 
