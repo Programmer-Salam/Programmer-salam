@@ -133,8 +133,8 @@ const badmus = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=programmer-salam&show_icons=true&theme=transparent&hide_border=true&title_color=38BDAE&icon_color=38BDAE&text_color=c9d1d9&bg_color=00000000&rank_icon=github" alt="GitHub Stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmer-salam&layout=compact&theme=transparent&hide_border=true&title_color=38BDAE&text_color=c9d1d9&bg_color=00000000&langs_count=8" alt="Top Languages"/>
+<img height="180" src="https://raw.githubusercontent.com/programmer-salam/programmer-salam/main/profile/stats.svg" alt="GitHub Stats"/>
+<img height="180" src="https://raw.githubusercontent.com/programmer-salam/programmer-salam/main/profile/top-langs.svg" alt="Top Languages"/>
 
 <br/><br/>
 
