@@ -2,7 +2,7 @@
 
 <!-- ═══════════════════════════ ANIMATED WAVE BANNER ═══════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Badmus%20Iretomiwa%20Abdulsalam&fontSize=42&fontColor=ffffff&fontAlignY=32&desc=Full%20Stack%20Software%20Engineer&descSize=20&descAlignY=55&animation=fadeIn" width="100%" alt="Header Banner"/> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Badmus%20Iretomiwa%20Abdulsalam&fontSize=42&fontColor=ffffff&fontAlignY=32&desc=Full%20Stack%20Software%20Engineer&descSize=20&descAlignY=55&animation=fadeIn" width="100%" alt="Header Banner"/>  
  
 <!-- ═══════════════════════════ ANIMATED TYPING EFFECT ═══════════════════════════ -->
  
