@@ -6,7 +6,7 @@
  
 <!-- ═══════════════════════════ ANIMATED TYPING EFFECT ═══════════════════════════ -->
  
-<a href="https://github.com/programmer-salam">
+<a href="https://github.com/programmer-salam"> 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38BDAE&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Engineer;Backend+Engineering+Specialist;Laravel+%7C+Node.js+%7C+Python;Building+Scalable+Systems;FinTech+%7C+AI+%7C+Payment+Systems;5%2B+Years+of+Experience+and+Counting..." alt="Typing SVG" />
 </a>
 
