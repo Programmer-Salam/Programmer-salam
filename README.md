@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Badmus%20Iretomiwa%20Abdulsalam&fontSize=42&fontColor=ffffff&fontAlignY=32&desc=Full%20Stack%20Software%20Engineer&descSize=20&descAlignY=55&animation=fadeIn" width="100%" alt="Header Banner"/>   
  
-<!-- ═══════════════════════════ ANIMATED TYPING EFFECT ═══════════════════════════ -->  
+<!-- ═══════════════════════════ ANIMATED TYPING EFFECT ═══════════════════════════ -->   
  
 <a href="https://github.com/programmer-salam"> 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38BDAE&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Engineer;Backend+Engineering+Specialist;Laravel+%7C+Node.js+%7C+Python;Building+Scalable+Systems;FinTech+%7C+AI+%7C+Payment+Systems;5%2B+Years+of+Experience+and+Counting..." alt="Typing SVG" />
